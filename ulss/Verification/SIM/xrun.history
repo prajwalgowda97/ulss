@@ -1,0 +1,1 @@
+s1(17Apr2025:11:47:20):  xrun -access +rwc -f compile_list.f -uvmhome CDNS-1.1d +UVM_TESTNAME=reset_test 
